@@ -13,6 +13,7 @@ private LocalDateTime fechaDeNac;
 		this.name = name;
 		this.apellido = apellido;
 		this.fechaDeNac = fechaDeNac;
+		this.carrito = carrito;
 	}
 
 	public String getName() {
